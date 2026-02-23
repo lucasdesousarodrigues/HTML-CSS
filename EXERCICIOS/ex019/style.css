@@ -1,0 +1,15 @@
+@charset "utf-8"; 
+body{background-color:cornflowerblue;}
+
+   h1{
+     text-align: center;
+     color: blue;
+    }
+
+   H1#TITULO{text-align: left;}   
+    h1#CSS{text-align: right; }   
+    h2{text-align: center;}
+
+    .basico {color: blueviolet;}
+    .intermediario{color:burlywood;}
+    .avançado{color: chocolate;}

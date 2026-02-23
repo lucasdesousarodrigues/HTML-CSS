@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PseudoClasses</title>
+    <style>
+        div{background-color: aquamarine;
+            display: inline-block;
+            height: 200px;
+            width: 200px;
+            border: 1px solid black;
+            text-align: center;}
+
+        div:hover{background-color: red;}
+        div#textoescondido{background-color: pink;}
+        div#textoescondido:hover{background-color: blue;}
+        div > p {display: none; }
+        div:hover > p {display: block;} 
+
+        
+
+    </style>
+
+</head>
+
+<body>
+    <div>01</div>
+    <div>02</div>
+    <div>03</div>
+    <p>passe o mouse abaixo</p>
+    <div id="textoescondido">passe o mouse aqui
+        <p>As cores mudam e o texto fica escondido</p>
+    </div>
+
+
+</body>
+</html> 

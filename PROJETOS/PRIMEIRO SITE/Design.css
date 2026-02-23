@@ -1,0 +1,51 @@
+    header{ background: linear-gradient(rgb(4, 27, 98), white);
+    text-align: center;
+    h1#problema{text-align: center; background-color: green;
+    border-radius: 15px;}
+    border-radius: 15px; }
+
+    h2 { color: rgb(53, 64, 191);} 
+        
+        nav > a {background-color: rgb(134, 188, 148) ; border-radius: 5px; color: white;
+        text-decoration: none; margin: 10px;}
+
+        nav > a:hover {
+            background-color: rgb(239, 255, 9);
+            transition-duration: 0.5s;
+        }
+
+
+    main{background-color: rgb(255, 255, 255); 
+    }
+
+    main > img{
+     width: 100%;
+    }
+    main > video{
+        width: 100%; background : linear-gradient(rgb(124, 176, 207), white);
+        padding: 2px
+    
+      }
+
+
+     body{background: linear-gradient(rgb(12, 90, 27), white) rgb(4, 33, 92); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    h1{background: linear-gradient(green, white);
+    color: white;
+     text-align: left;} }
+
+
+        aside{background-color: rgb(13, 15, 53); border-radius: 15px;}
+        aside > p {text-align: left; font-size: 20px; color: white;}
+        aside > ul {columns: 2; color: rgb(79, 174, 114); list-style-type: '\2714' ;}
+        aside > p#pfinal:hover {color: green} 
+        
+
+        footer {background-color: white;}
+
+        footer > h1 {background-color: rgb(0, 0, 0); text-align: center;
+        font-size: small;} 
+
+        footer > h1:hover {color: yellow}
+    
+   

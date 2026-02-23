@@ -1,0 +1,27 @@
+ 
+ @charset "UTF-8";
+ 
+  body {
+    background-image: url(stock-photo-a-front-angle-photo-of-players-locker-room-with-number-on-the-center-of-the-locker-door-in-saudi-2548100213.jpg
+    );
+    
+  h1 {
+    color: green;
+    text-align: center;
+
+  }
+
+    
+
+    h2 {
+        color: white;
+        text-align: center;
+        }
+       
+
+    p {
+        color: white;
+        text-align: center;
+    }
+  }
+      
