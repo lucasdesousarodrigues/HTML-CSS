@@ -49,20 +49,32 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 1.5vw;
+    font-size: 3vw;
 }
 
 section.normal{
     background-color: white;
-    color: black;}
+    color: black;
+    box-shadow: inset 6px 6px 13px 0px;}
 
 section.imagem{
     background-color: aqua;
-    color: white;}   
+    color: white;
+    background-attachment: fixed;
+    }   
 
 section.imagem > p {background-color: rgba(255, 255, 255, 0.663) ;
 display: inline-block;
 padding: 5px;}   
+
+section#fundojoaninha {background-image: url(imagens/fundojoaninha.jpg); 
+    background-position: center right;
+    background-size: cover;}
+
+section#fundofolhas {background-image: url(imagens/fundofolhas.jpg); 
+    background-position: center right;
+    background-size: cover;}
+
 
 footer{ 
     background-color: black;
